@@ -2,7 +2,7 @@
 
 ## Abstract 
 
-Can we predict the outcome of a hockey match based on the scores of the 1st and 2nd periods?## Data 
+Can we predict the outcome of a hockey match based on the scores of the 1st and 2nd periods? 
 
 ## Data
 
