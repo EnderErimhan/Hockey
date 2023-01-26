@@ -2,8 +2,9 @@
 
 ## Abstract 
 
-Can we predict the outcome of a hockey match based on the scores of the 1st and 2nd periods? 
+Can we predict the outcome of a hockey match based on indicators in the 1st and 2nd periods? 
 
+The complete notebook can be accsessed [here](https://rpubs.com/Ender_Erimhan/995820)
 ## Data Dictionary
 
 The data was collected from the RIT Mens Hockey page into a csv file. The file in this repository is called HData2.CSV. The description of the explanatory variables are below:
